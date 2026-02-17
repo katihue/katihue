@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi there 👋
+I'm Katharina Huesmann
 
-<!--
-**katihue/katihue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD researcher in Soil Science & Geography  
+University of Cologne  
 
-Here are some ideas to get you started:
+🌱 Research Interests
+- Litter decomposition
+- Carbon cycling
+- Tea Bag Index
+- Long-term ecosystem experiments
+- Climate–soil interactions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 Current Project
+Long-term Decomposition of Rooibos Tea Litter in German Forest Ecosystems
+
+📝 Publications
+(coming soon)
+
+📫 Contact
+katharina.huesmann@uni-koeln.de
