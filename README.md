@@ -18,4 +18,4 @@ Long-term Decomposition of Rooibos Tea Litter in German Forest Ecosystems
 (coming soon)
 
 📫 Contact
-katharina.huesmann@uni-koeln.de
+@uni-koeln.de
